@@ -89,7 +89,7 @@ ros2 run mgs1600gy_py mgs_serial_driver
 
 <br/>
 
-- cmd_vel node
+- cmd_vel control node
 
 ```bash
 ros2 run mgs1600gy_py mgs_control
