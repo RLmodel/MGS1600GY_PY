@@ -1,0 +1,13 @@
+# set the udev rule
+
+
+# MGS1600GY rules
+KERNEL=="ttyACM*", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="5740", MODE:="0666", SYMLINK+="MGS1600GY"
+
+# MW-AHRSv1
+# KERNEL=="ttyUSB*", ATTRS{idVendor}=="067b", ATTRS{idProduct}=="23**", MODE:="0777", SYMLINK+="MWAHRs"
+
+# MW-AHRSv1 new vender
+# KERNEL=="ttyUSB*", ATTRS{idVendor}=="1a86", ATTRS{idProduct}# =="7523", MODE:="0777", SYMLINK+="MWAHRs"
+
+

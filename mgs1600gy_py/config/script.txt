@@ -1,0 +1,238 @@
+# C
+?trn
+?FID
+?lk
+%UK 0
+~BRUN
+%UK 0
+~SCRO
+%UK 0
+~TELS
+-
+%UK 0
+~FCAL
+%UK 0
+~CEN
+%UK 0
+~CBR
+%UK 0
+~CNOD
+%UK 0
+~CLSN
+%UK 0
+~CHB
+%UK 0
+~CSRT
+%UK 0
+~CTPS
+%UK 0
+~CTT
+%UK 0
+~CAS
+%UK 0
+~DMOD
+%UK 0
+~MNOD
+%UK 0
+~MDAL
+%UK 0
+~MMOD
+%UK 0
+~TPOL
+%UK 0
+~TWDT
+%UK 0
+~BADJ
+%UK 0
+~TXOF
+%UK 0
+~TINV
+%UK 0
+~TMS
+%UK 0
+~PWMM
+%UK 0
+~PWMI
+%UK 0
+~PWMX
+%UK 0
+~GRNG
+%UK 0
+~BRUN
+%UK 0
+~SCRO
+%UK 0
+~TELS
+-
+%UK 0
+~FCAL
+%UK 0
+~CEN
+%UK 0
+~CBR
+%UK 0
+~CNOD
+%UK 0
+~CLSN
+%UK 0
+~CHB
+%UK 0
+~CSRT
+%UK 0
+~CTPS
+%UK 0
+~CTT
+%UK 0
+~CAS
+%UK 0
+~DMOD
+%UK 0
+~MNOD
+%UK 0
+~MDAL
+%UK 0
+~MMOD
+MMOD=0
+%UK 0
+~TPOL
+%UK 0
+~TWDT
+%UK 0
+~BADJ
+%UK 0
+~TXOF
+TXOF=0
+%UK 0
+~TINV
+%UK 0
+~TMS
+%UK 0
+~PWMM
+%UK 0
+~PWMI
+%UK 0
+~PWMX
+%UK 0
+~GRNG
+^FCAL 1
+%eesav
+?lk
+%UK 0
+~BRUN
+%UK 0
+~SCRO
+%UK 0
+~TELS
+-
+%UK 0
+~FCAL
+%UK 0
+~CEN
+%UK 0
+~CBR
+%UK 0
+~CNOD
+%UK 0
+~CLSN
+%UK 0
+~CHB
+%UK 0
+~CSRT
+%UK 0
+~CTPS
+%UK 0
+~CTT
+%UK 0
+~CAS
+%UK 0
+~DMOD
+%UK 0
+~MNOD
+%UK 0
+~MDAL
+%UK 0
+~MMOD
+%UK 0
+~TPOL
+%UK 0
+~TWDT
+%UK 0
+~BADJ
+%UK 0
+~TXOF
+%UK 0
+~TINV
+%UK 0
+~TMS
+%UK 0
+~PWMM
+%UK 0
+~PWMI
+%UK 0
+~PWMX
+%UK 0
+~GRNG
+%UK 0
+~BRUN
+%UK 0
+~SCRO
+%UK 0
+~TELS
+-
+%UK 0
+~FCAL
+%UK 0
+~CEN
+%UK 0
+~CBR
+%UK 0
+~CNOD
+%UK 0
+~CLSN
+%UK 0
+~CHB
+%UK 0
+~CSRT
+%UK 0
+~CTPS
+%UK 0
+~CTT
+%UK 0
+~CAS
+CAS=0
+%UK 0
+~DMOD
+%UK 0
+~MNOD
+%UK 0
+~MDAL
+%UK 0
+~MMOD
+%UK 0
+~TPOL
+%UK 0
+~TWDT
+%UK 0
+~BADJ
+%UK 0
+~TXOF
+%UK 0
+~TINV
+%UK 0
+~TMS
+%UK 0
+~PWMM
+%UK 0
+~PWMI
+%UK 0
+~PWMX
+%UK 0
+~GRNG
+# C
+?FS
+?MZ
+?ANG
+?EO
+?MGD
+?T
+?MGT

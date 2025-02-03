@@ -1,0 +1,19 @@
+mgs_driver:
+  ros__parameters:
+
+    # port name. (USB-AB: ttyACM0, RS232: ttyUSB0) 
+    port: "/dev/MGS1600GY"
+
+    # baudrate. Sensor Default 115200
+    baud: 115200
+
+    # save config file
+    save_config: True
+    
+    # config script file path
+    script_path: "/home/per/ivh_ws/src/MGS1600GY/mgs1600gy_py/config/script.txt"
+
+    # log file save path (config feedback data only)
+    log_path: "/home/per/ivh_ws/src/MGS1600GY/mgs1600gy_py/log"
+
+
