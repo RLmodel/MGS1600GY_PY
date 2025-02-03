@@ -74,7 +74,7 @@ sudo chmod +x create_udev_rules.sh
 ```
 
 ```bash
-./create_udev_rules
+./create_udev_rules.sh
 ```
 
 <br/>
