@@ -57,6 +57,25 @@ source install/setup.bash
 
 <br/>
 
+### rules
+
+- move to script folder
+
+```bash
+cd ~/ros2_ws/src/MGS1600GY_PY/mgs1600gy_py/scripts/
+```
+
+<br/>
+
+- make rules
+
+```bash
+sudo chmod +x create_udev_rules.sh
+./create_udev_rules
+```
+
+<br/>
+
 ### run
 
 - sensor data only
