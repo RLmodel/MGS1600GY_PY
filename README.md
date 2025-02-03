@@ -51,7 +51,7 @@ cd ~/ros2_ws
 - colcon build && source install folder
 
 ```bash
-colcon build --packages-select --symlink-install mgs1600gy_py
+colcon build --symlink-install --packages-select mgs1600gy_py
 source install/setup.bash
 ```
 
@@ -62,7 +62,7 @@ source install/setup.bash
 - move to script folder
 
 ```bash
-cd ~/ros2_ws/src/MGS1600GY_PY/mgs1600gy_py/scripts/
+cd ./src/MGS1600GY_PY/mgs1600gy_py/scripts/
 ```
 
 <br/>
@@ -71,6 +71,9 @@ cd ~/ros2_ws/src/MGS1600GY_PY/mgs1600gy_py/scripts/
 
 ```bash
 sudo chmod +x create_udev_rules.sh
+```
+
+```bash
 ./create_udev_rules
 ```
 
